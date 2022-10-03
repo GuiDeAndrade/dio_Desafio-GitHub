@@ -1,0 +1,2 @@
+Olá,
+Me chamo Guilherme Alves Macedo de Andrade (Gui de Andrade), e após um ano de muita reflexão decidi entrar de cabeça no mundo da ciência de dados. Já vinha estudando Python ha algum tempinho, porém vi nesse bootcamp da Dio uma oportunidade única para me 'tornar' um cientista de dados e começar a atuar na área. Usei as aspas no me tornar um cientista de dados, pois tenho noção que é um caminho longo e de aprendizado constante, caminho esse no qual me vejo realizado em trilhar.
